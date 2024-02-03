@@ -36,7 +36,7 @@
             }
             catch (Exception erro)
             {
-                Console.WriteLine($"erro: {erro}");
+                Console.WriteLine($"erro: {erro.Message}");
                 TelaPrincipal();
             }
         }
@@ -104,7 +104,7 @@
             }
             catch (Exception erro)
             {
-                Console.WriteLine($"erro: {erro}");
+                Console.WriteLine($"erro: {erro.Message}");
                 Menu();
             }
         }
