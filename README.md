@@ -10,7 +10,7 @@
   - Crie o método de login, recebendo os dois parâmetros de login e senha, retorne em **booleano** se ele está logado ou não;
   - Faça validação desses dados e só deixe acessar o menu caso os dados estejam corretos, caso os dados estejam incorretos, retorne a mensagem: *login/senha incorreto, tente novamente* e permita que o usuário digite as credenciais novamente;
   
-- 2 – Menu com 3 opções: Cadastrar Agendamento, Listar Agendamentos e Sair
+- 2 - Menu com 3 opções: Cadastrar Agendamento, Listar Agendamentos e Sair
 
   - Crie uma classe com com o nome: Agendamento;
   - Defina os atributos: _NomeDono, ContatoDono, NomeCachorro, CorCachorro, DataAgendamento_;
