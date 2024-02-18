@@ -1,6 +1,6 @@
 # Desafio Petshopp
 
-### Julio necessita criar um sistema para seu pet shopp e solicitou que criássemos o sistema com os seguintes itens:***
+### Julio necessita criar um sistema para seu pet shopp e solicitou que criássemos o sistema com os seguintes itens:
 
 - 1 - Tela de login
 
